@@ -225,6 +225,6 @@ with tab3:
 
 st.write("---")
 st.markdown(
-    "<p style='text-align:center; color:#a08c99;'>Made with way too much love (and a little bit of sarcasm) 💗</p>",
+    "<p style='text-align:center; color:#a08c99;'>Made with way too much admiration, appreciation (and a little bit of sarcasm) 💗</p>",
     unsafe_allow_html=True
 )
